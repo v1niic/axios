@@ -1,0 +1,28 @@
+{
+    "users": [
+
+        {
+            "id": 1,
+            "nome": "Carlos",
+            "E-mail": "carlao@gmail.com"
+        },
+        {
+            "id": 2,
+            "nome": "maria",
+            "E-mail": "mariadograu@gmail.com"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "nome": "tudoisso",
+            "Valor": 99.99
+        },
+        {
+            "id": 2,
+            "nome": "Teclado Mecacino 100",
+            "Valor": 999.99
+        }
+    ],
+    "cart": []
+}
